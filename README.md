@@ -4,3 +4,5 @@
 
 This page will briefly introduces my projects hosted on GitHub (work in progress).\
 You will find more detailed explanations in each project's ReadMe file.
+
+My LinkedIn profile : https://www.linkedin.com/in/remichauchadis
