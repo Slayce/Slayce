@@ -8,7 +8,7 @@ You will find more detailed explanations in each project's ReadMe file.
 My LinkedIn profile : https://www.linkedin.com/in/remichauchadis 
 
 
-- [2021-2022] [Multi view photometric stereo](https://github.com/rchaucha/Multi-view-photometric-stereo) : Using photometric stereo with several camera poses given that the light comes from the built-in flash of the camera.
+- [2021-2022] [Multi-view-photometric-stereo](https://github.com/rchaucha/Multi-view-photometric-stereo) : Using photometric stereo with several camera poses given that the light comes from the built-in flash of the camera.
 - [2021] [Squeeze-Mesh-Compression](https://github.com/rchaucha/Squeeze-Mesh-Compression) : Implementation of the SQUEEZE method for compressing 3D mesh and streaming it with minimal loss.
 - [2021] [UE-Portals](https://github.com/rchaucha/UE-Portals) : C++ Unreal Engine 4 plugin adding highly customizable spatial portals.
 - [2020-2021] [Interactive-table](https://github.com/rchaucha/Interactive-table) : The system makes any table touch-sensitive and can detect items placed on the table to interact with them.
