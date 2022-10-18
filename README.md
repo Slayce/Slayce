@@ -9,6 +9,7 @@ My LinkedIn profile : https://www.linkedin.com/in/remichauchadis
 
 
 - [2021-2022] [Multi-view-photometric-stereo](https://github.com/rchaucha/Multi-view-photometric-stereo) : Using photometric stereo with several camera poses given that the light comes from the built-in flash of the camera.
+- [2021] [Chicken-Coop-Door](https://github.com/rchaucha/Chicken-Coop-Door) : Automatic chicken coop door that opens and closes depending on the sun. Works on battery on an Arduino Pro Mini 3.3V.
 - [2021] [Squeeze-Mesh-Compression](https://github.com/rchaucha/Squeeze-Mesh-Compression) : Implementation of the SQUEEZE method for compressing 3D mesh and streaming it with minimal loss.
 - [2021] [UE-Portals](https://github.com/rchaucha/UE-Portals) : C++ Unreal Engine 4 plugin adding highly customizable spatial portals.
 - [2020-2021] [Interactive-table](https://github.com/rchaucha/Interactive-table) : The system turns any table into a touch-sensitive device using IR sensor and a projector and can detect items placed on the table using a camera to interact with them.
